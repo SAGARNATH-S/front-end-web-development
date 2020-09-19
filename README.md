@@ -1,2 +1,2 @@
-# full-stack-web-development
+# frontend-web-development
 Code from the first foot step
